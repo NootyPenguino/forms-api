@@ -1,0 +1,7 @@
+{
+    "app": {
+        "env": "NODE_ENV",
+        "jwtPrivateKey": "forms-api_jwtPrivateKey"
+    }
+
+}

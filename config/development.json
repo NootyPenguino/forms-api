@@ -1,0 +1,9 @@
+{
+    "app": {
+        "name": "forms-api - Development",
+        "env": ""
+    },
+    "db": {
+        "connection": "mongodb://localhost/forms-dev"
+    }
+}

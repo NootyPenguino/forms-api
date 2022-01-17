@@ -1,0 +1,7 @@
+{
+    "app": {
+        "name": "forms-api",
+        "env": "",
+        "jwtPrivateKey": ""
+    }
+}

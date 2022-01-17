@@ -1,0 +1,34 @@
+{
+  "name": "forms-api",
+  "version": "1.0.0",
+  "description": "Node.js Forms API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NootyPenguino/forms-api.git"
+  },
+  "author": "Robert Whiting",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NootyPenguino/forms-api/issues"
+  },
+  "homepage": "https://github.com/NootyPenguino/forms-api#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "config": "^3.3.7",
+    "express": "^4.17.2",
+    "express-async-errors": "^3.1.1",
+    "helmet": "^5.0.1",
+    "joi": "^17.5.0",
+    "joi-objectid": "^4.0.2",
+    "joi-password-complexity": "^5.1.0",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.21",
+    "mongoose": "^6.1.6",
+    "morgan": "^1.10.0",
+    "winston": "^3.4.0"
+  }
+}
