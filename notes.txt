@@ -1,0 +1,12 @@
+Form:
+    title,
+    author,
+    questions: [Question]
+Question:
+    title,
+    fieldType,
+    fields: [String],
+    responses: [Response]
+Response:
+    user: userId,
+    fields: [String]

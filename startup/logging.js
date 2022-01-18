@@ -11,8 +11,8 @@ module.exports = function() {
     
     winston.configure({
         format: combine(
-            prettyPrint(),
-            timestamp()
+            timestamp(),
+            prettyPrint()
         ),
         transports: [
             new transports.File({
